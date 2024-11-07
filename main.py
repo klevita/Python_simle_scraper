@@ -5,7 +5,6 @@ defaultUrl = 'https://habr.com'
 
 def createFile(name, content):
     print('Записываю файл - ' + name)
-    print(content)
     with open(name + '.html', "w", encoding="utf-8") as text_file:
         text_file.write(content)
 
