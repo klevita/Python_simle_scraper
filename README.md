@@ -1,8 +1,8 @@
 # Python_simle_scraper
 # Запуск
  ``
- pip3 install requests
- pip3 install beautifulsoup4
+ pip3 install requests <br>
+ pip3 install beautifulsoup4<br>
  python main.py
  ``
 # Как работает
