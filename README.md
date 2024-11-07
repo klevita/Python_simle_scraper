@@ -1,9 +1,9 @@
 # Python_simle_scraper
 # Запуск
- ``
- pip3 install requests <br>
- pip3 install beautifulsoup4<br>
- python main.py
+
+ `` pip3 install requests ``
+  ``pip3 install beautifulsoup4 ``
+  ``python main.py
  ``
 # Как работает
 <p> В переменную nextPageHref необходимо записать ссылку первой страницы поиска в habr вырезав из начала 'https://habr.com'. </p>
